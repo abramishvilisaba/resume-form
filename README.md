@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/abramishvilisaba/resume-form)
-- Live Site URL: [Add live site URL here](https://sabramishvili-resume-form.netlify.app/)
+- Solution URL: [Github](https://github.com/abramishvilisaba/resume-form)
+- Live Site URL: [Netlify](https://sabramishvili-resume-form.netlify.app/)
 
 
 ### Built with
